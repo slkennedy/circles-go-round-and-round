@@ -1,0 +1,8 @@
+{
+  "name": "package",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt-contrib-copy": "^0.7.0",
+    "ui-framework": "git+https://github.com/unumux/ui-framework"
+  }
+}
